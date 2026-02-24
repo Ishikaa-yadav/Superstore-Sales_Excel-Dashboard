@@ -5,10 +5,9 @@ This project presents an interactive Sales Performance Dashboard built using Mic
 
 The dashboard provides valuable insights into business performance, helping stakeholders make data-driven decisions to improve profitability and operational efficiency.
 
-Dashboard Preview
+ Dashboard Preview
 
 ![Sales Dashboard](excel dashboard.png)
-
 Objectives
 
 The main objectives of this project are:
